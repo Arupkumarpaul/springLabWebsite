@@ -16,6 +16,7 @@ import NewsAndEvents from './pages/NewsAndEvents'
 import NotFound from './pages/NotFound'
 import ComingSoon from './pages/ComingSoon'
 import ProjectDetail from './pages/ProjectDetail'
+import Products from './pages/Products'
 
 function App() {
   
@@ -30,6 +31,7 @@ function App() {
         <Route path="/people/current" element={<PeopleCurrent />} />
         <Route path="/people/alumni" element={<PeopleAlumini />} />
         <Route path="/resources" element={<ComputingResources />} />
+        <Route path="/products" element={<Products />} />
         <Route path="/news_events" element={<NewsAndEvents />} />
         <Route path="/projects/:id" element={<ProjectDetail/>} />
         {/* <Route path="/affairs/news" element={<NewsUpdates />} /> */}

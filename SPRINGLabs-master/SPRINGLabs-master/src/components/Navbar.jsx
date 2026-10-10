@@ -25,6 +25,7 @@ const Navbar = () => {
       ]
     },
     { name: 'Publications', href: 'https://souradyuti-paul.web.app/publications', external: true, },
+    { name: 'Products', href: '/products' },
     { name: 'News & Events', href: '/news_events' },
     
     { name: 'Contact', href: '/contact' },
