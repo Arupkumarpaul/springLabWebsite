@@ -1,0 +1,78 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "P2P Solar Energy Trading Platform",
+      "images": ["/projects/solarEnergyTrading/set1.jpg","/projects/solarEnergyTrading/set1.jpeg", "/projects/solarEnergyTrading/set2.jpg", "/projects/solarEnergyTrading/set3.jpg", "/projects/solarEnergyTrading/set4.jpg", "/projects/solarEnergyTrading/set5.jpg", "/projects/solarEnergyTrading/set6.jpg"],
+      "problemStatement": "The Solar Energy generated from rooftop solar panels often goes unused due to lack of efficient distribution and trading. This project aims to create a smart meter and decentralized platform for peer-to-peer trading of solar energy and introducing blockchain to handle dispute among prosumers and consumers.",
+      "implementation": "Technological intervention supporting decentralized energy economy can act as a powerful growth booste by fostering local empowerment, stimulating innovation, and carrying out sustainable development. \nAt IIT Bhilai, we have designed and demonstrated a prototype e-marketplace that allows secure trading of solar energy from rooftop to rooftop within the campus.\nWe argue that India – and the agencies and organizations operating within it – should seriously consider transitioning toward decentralized economic models, where solar energy itself could function as a form of currency. Such a paradigm shift would not only reduce dependence on centralized and non-renewable energy sources, but also align with India’s growing emphasis on energy security, and local economic empowerment. By leveraging solar energy as both a resource and a medium of exchange, India could pioneer an innovative model of sustainable development that integrates energy access, financial inclusion, and environmental stewardship.",
+      "fundingAgency": "C3iHub (IIT Kanpur)",
+      "budget": "30 lakhs",
+      "startDate": "2022",
+      "endDate": "2027",
+      "content": [
+        {
+          "heading": "Why use Solar Energy?",
+          "description": "."
+        },
+        {
+          "heading": "What is Solar Energy Trading?",
+          "description": "."
+        }
+      ]
+ 
+    },
+    {
+      "id": 2,
+      "title": "Artwork Trading Platform",
+      "images": ["/projects/artworkTradingPlatform/atp1.jpg"],
+      "problemStatement": "",
+      "implementation": "",
+      "contributedBy": [
+        {
+          "name": "Devansh Shrivastava",
+          "email": "devansh@iitbhilai.ac.in"
+        }
+      ],
+      "fundingAgency": "IBITF and SAPIO Analytics",
+      "budget": "65 lakhs",
+      "startDate": "2023",
+      "endDate": "2027"
+      
+    },
+    {
+      "id": 3,
+      "title": "GI-Tags implementation for Chhattisgarh Product",
+      "images": ["/projects/giTags/gi1.jpg"],
+      "problemStatement": "",
+      "implementation": "",
+      "fundingAgency": "IBITF",
+      "budget": "86 lakhs",
+      "startDate": "2023",
+      "endDate": "2027"
+     
+    },
+    {
+      "id": 4,
+      "title": "Fintech Security and Applications",
+      "images": ["/projects/fintechSecurity/fs1.jpg"],
+      "problemStatement": "",
+      "implementation": "",
+      "fundingAgency": "Meity",
+      "budget": "6 cr.",
+      "startDate": "2024",
+      "endDate": "2029"
+    },
+    {
+      "id": 5,
+      "title": "Miscellaneous E-Governance and Security Solutions for Chhattisgarh Administration",
+      "images": ["/projects/egovSecuritySolCG/egssc.jpg"],
+      "problemStatement": "",
+      "implementation": "",
+      "fundingAgency": "Various Government Agencies",
+      "budget": "",
+      "startDate": "2024",
+      "endDate": ""
+    }
+  ]
+}

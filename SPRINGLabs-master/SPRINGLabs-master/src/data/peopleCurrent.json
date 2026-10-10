@@ -1,0 +1,103 @@
+ {
+    "principalInvestigator": [
+      {
+        "id": 1,
+        "name": "Dr. Souradyuti Paul",
+        "designation": "Associate Professor",
+        "duration": "2017 - Present",
+        "topic": "Blockchain, Cryptography",
+        "image": "/people/SouradyutiP.jpg",
+        "profileLink": "https://souradyutip.github.io/",
+        "email": "souradyuti@iitbhilai.ac.in"
+      }
+    ],
+    "phdStudents": [
+      {
+        "id": 1,
+        "name": "Abu Talha",
+        "designation": "Research Scholar",
+        "duration": "Aug 2023 - Present",
+        "topic": "Statistics, Diffusion Models",
+        "image": "/people/AbuT.jpeg",
+        "profileLink": "https://sites.google.com/view/talhaiiserb/home",
+        "email": "abut@iibhilai.ac.in"
+      },
+      {
+        "id": 2,
+        "name": "Vijay Shankar Tiwari",
+        "designation": "Research Scholar",
+        "duration": "Dec 2024 - Present",
+        "topic": "TBD",
+        "image": "/people/VijayST.jpeg",
+        "profileLink": "https://www.linkedin.com/in/vijay-shankar-tiwari-5637b1337/",
+        "email": "vijayst@iitbhilai.ac.in"
+      }
+    ],
+    "mtechStudents": [
+      {
+        "id": 1,
+        "name": "Goutam Halder",
+        "designation": "M.Tech Student",
+        "duration": "2025 - Present",
+        "topic": "Blockchain In E-governance",
+        "image": "/people/GoutamH.jpeg",
+        "profileLink": "https://linkedin.com/in/alexjohnson",
+        "email": "goutamhald@iitbhilai.ac.in"
+      },
+      {
+        "id": 2,
+        "name": "Prakhar Garg",
+        "designation": "M.Tech Student",
+        "duration": "2025 - Present",
+        "topic": "Blockchain Technology",
+        "image": "/people/PrakharG.jpeg",
+        "profileLink": "https://linkedin.com/in/weizhang",
+        "email": "prakhargar@iitbhilai.ac.in"
+      }
+    ],
+    "researchAssociates": [
+         {
+          "id": 3,
+          "name": "Renu Bakshi",
+          "designation": "Crypto Security Engineer",
+          "duration": "Oct 2024 - Present",
+          "topic": "Blockchain Technology, Fintech Security",
+          "image": "/people/RenuB.jpeg",
+          "profileLink": "https://www.linkedin.com/in/renu-bakshi/",
+          "email": "renu47010@gmail.com"
+        },
+        
+{
+          "id": 1,
+          "name": "Rohan Madhukar Wasnik",
+          "designation": "Project Assistant",
+          "duration": "Oct 2024 - Present",
+          "topic": "Blockchain Technology, Fintech Security",
+          "image": "/people/RohanMW.jpg",
+          "profileLink": "https://www.linkedin.com/",
+          "email": "wasnikrohan853@gmail.com"
+        },
+        {
+          "id": 2,
+          "name": "Rishabh Kumar Dewangan",
+          "designation": "Project Associate",
+          "duration": "Nov 2025 - Present",
+          "topic": "Cyber security- web app/apk pentesting",
+          "image": "/people/RishabhKD.jpeg",
+          "profileLink": "https://medium.com/@rishabhkumar-rk",
+          "email": "rishabhsstc@gmail.com"
+        },
+     
+        
+        {
+          "id": 4,
+          "name": "Devansh Shrivastvava",
+          "designation": "Junior Research Fellow",
+          "duration": "Nov 2025 - Present",
+          "topic": "Blockchain Technology, Fintech Security",
+          "image": "/people/DevanshS.jpeg",
+          "profileLink": "https://linkedin.com/in/robertwilson",
+          "email": "devansh@iitbhilai.ac.in"
+        }
+    ]
+  }

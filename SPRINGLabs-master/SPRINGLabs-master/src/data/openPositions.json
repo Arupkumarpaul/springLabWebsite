@@ -1,0 +1,24 @@
+{ "openPositions":  [
+    {
+      "id": "in2501",
+      "type": "Position",
+      "role": "Intern",
+      "topic": "Blockchain Technology/ Cybersecurity",
+      "applicationStartDate": "2024-01-15",
+      "applicationEndDate": "2026-01-15",
+      "status": "Open",
+      "supervisor": "Mr. Abu Talha",
+      "email": "abut@iitbhilai.ac.in"
+    },
+    {
+      "id": "in2502",
+      "type": "Position",
+      "role": "Intern",
+      "topic": "AI/ ML/ Generative Modeling",
+        "applicationStartDate": "2024-01-15",
+      "applicationEndDate": "2026-01-15",
+      "status": "Open",
+      "supervisor": "Mr. Abu Talha",
+      "email": "abut@iitbhilai.ac.in"
+    }
+  ]}

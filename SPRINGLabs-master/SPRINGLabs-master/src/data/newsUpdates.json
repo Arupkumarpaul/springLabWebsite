@@ -1,0 +1,33 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "The IIT Bhilai IT Park at Civil Lines, Durg, Chhattisgarh.",
+      "description": "The day marks a significant milestone for IIT Bhilai. The IIT Bhilai IT Park has officially come into existence at Civil Lines, Durg, Chhattisgarh, on land graciously provided by the District Administration, Durg. The inauguration ceremony was held in the esteemed presence of the School Education Minister of Chhattisgarh, the Collector of Durg, and the Director of IIT Bhilai.",
+      "date": "2025-11-24",
+      "category": "Achievement",
+      "type": "partnership",
+      "image": "/news/news241125.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Faculty Upgradation Program",
+      "description": "The Faculty Upgradation Program on Advanced Topics in FinTech Security, hosted in IIT Bhilai, was successfully completed. The intensive course focused on advanced topics of Fintech and Blockchain. The goal was to equip faculty to teach security practices, ensuring students are ready to defend against financial cyber threats.",
+      "date": "2025-03-17",
+      "category": "Event",
+      "type": "event",
+      "image": "/news/news280325.png"
+  
+    },
+    {
+      "id": 3,
+      "title": "Fintech Bootcamp",
+      "description": "A specialized FinTech Bootcamp, hosted in IIT Bhilai, successfully upskilled its participants. The intensive program covered essential future-of-finance topics like blockchain, financial technology. Participants engaged in hands-on workshops and a hackathon.",
+      "date": "2025-02-03",
+      "category": "Event",
+      "type": "event",
+      "image": "/news/news030225.jpg"
+    }
+    
+  ]
+}

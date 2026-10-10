@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1e40af;    /* Deep professional blue */
+  --color-secondary: #374151;  /* Solid dark gray for text */
+  --color-accent: #06b6d4;     /* Bright cyan for highlights */
+  --color-dark: #1f2937;       /* Dark gray for important text */
+  
+  --animate-fadeIn: fadeIn 0.3s ease-in-out;
+  --animate-slideDown: slideDown 0.3s ease-out;
+  --animate-rotateIn: rotateIn 0.3s ease-out;
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes slideDown {
+    0% {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes rotateIn {
+    0% {
+      opacity: 0;
+      transform: rotate(-90deg);
+    }
+    100% {
+      opacity: 1;
+      transform: rotate(0deg);
+    }
+  }
+}

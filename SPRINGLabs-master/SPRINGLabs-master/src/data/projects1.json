@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Solar Energy Trading with Blockchain",
+      "problemStatement": "The Solar Energy generated from rooftop solar panels often goes unused due to lack of efficient distribution and trading. This project aims to create a smart meter and decentralized platform for peer-to-peer trading of solar energy and introducing blockchain to handle dispute among prosumers and consumers.",
+      "images": [
+        "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621416894564-9e3b41d643d4?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=600&fit=crop"
+      ],
+      "fundingAgency": "C3iHub (IIT Kanpur)",
+      "budget": "30 lakhs",
+      "startDate": "2022",
+      "endDate": "2027",
+      "implementation": "Technological intervention supporting decentralized energy economy can act as a powerful growth booste by fostering local empowerment, stimulating innovation, and carrying out sustainable development. \nAt IIT Bhilai, we have designed and demonstrated a prototype e-marketplace that allows secure trading of solar energy from rooftop to rooftop within the campus. Furthermore, we have projected the feasibility of scaling this framework into pilot implementations in two more campuses: BIT Durg and IIT Kanpur.\nWe argue that India – and the agencies and organizations operating within it – should seriously consider transitioning toward decentralized economic models, where solar energy itself could function as a form of currency. Such a paradigm shift would not only reduce dependence on centralized and non-renewable energy sources, but also align with India’s growing emphasis on energy security, and local economic empowerment. By leveraging solar energy as both a resource and a medium of exchange, India could pioneer an innovative model of sustainable development that integrates energy access, financial inclusion, and environmental stewardship."
+    },
+    {
+      "id": 2,
+      "title": "AI-Powered Cryptographic Key Management System",
+      "problemStatement": "Traditional key management systems are vulnerable to quantum computing attacks and lack adaptive security features. This project addresses the need for quantum-resistant cryptographic solutions with intelligent key rotation mechanisms.",
+      "images": [
+        "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop"
+      ],
+      "fundingAgency": "Ministry of Electronics and Information Technology",
+      "budget": "₹32,00,000",
+      "startDate": "2024",
+      "endDate": "2027",
+      "implementation": "We are developing a machine learning-based key management system that automatically rotates cryptographic keys based on threat intelligence. The system incorporates post-quantum cryptography algorithms and provides seamless integration with existing infrastructure."
+    },
+    {
+      "id": 3,
+      "title": "Secure Multi-Party Computation for Healthcare Data",
+      "problemStatement": "Healthcare institutions struggle to collaborate on research while maintaining patient data privacy. Current solutions either compromise on security or are computationally expensive for large-scale medical data analysis.",
+      "images": [
+        "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=800&h=600&fit=crop"
+      ],
+      "fundingAgency": "Indian Council of Medical Research",
+      "budget": "₹28,00,000",
+      "startDate": "2023",
+      "endDate": "2025",
+      "implementation": "Our approach uses secure multi-party computation protocols to enable multiple healthcare providers to jointly analyze patient data without exposing individual records. The system includes differential privacy mechanisms and homomorphic encryption for enhanced security."
+    }
+  ]
+}
